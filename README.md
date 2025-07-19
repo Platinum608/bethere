@@ -15,7 +15,7 @@ ui设计和profile页面参考了[BOC官网](https://www.bumpofchicken.com)
 
 
 ## 使用的 API
-本项目依赖 [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) 或兼容的本地音乐 API 服务，默认请求地址为 `http://localhost:3000`。
+本项目依赖 [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) API 服务，默认请求地址为 `http://localhost:3000`。
 
 主要用到的接口有：
 - `GET /artist/album?id=ARTIST_ID`：获取指定歌手的专辑列表
